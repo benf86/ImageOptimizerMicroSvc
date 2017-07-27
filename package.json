@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Rolando Benjamin Vaz Ferreira <contact@ferreira.si>",
-  "license": "MIT",
+  "license": "CC-BY-NC-SA-4.0",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
